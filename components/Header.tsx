@@ -7,7 +7,7 @@ const Header = () => {
       <Link href="/" className="flex items-center cursor-pointer space-x-2">
         <Image src="/icon.webp" height={40} width={40} alt="Logo" />
         <p className="tracking-widest font-semibold pr-5 text-white uppercase">
-          THE CAT&#39;S WORLD
+          THE book token
         </p>
       </Link>
     </header>

@@ -13,14 +13,14 @@ const Banner = (props: Props) => {
           className="text-4xl tracking-wide font-kanit uppercase"
           style={{ textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)" }}
         >
-          Welcome to Cat&#39;s World Collection!
+          Welcome to The Book Token Collection!
         </h1>
         <p
-          className="uppercase tracking-widest text-xl font-medium text-[#caf0f8] font-kanit"
+          className="uppercase tracking-widest text-xl font-medium text-[#caf0f8] w-1/2 font-kanit"
           style={{ textShadow: "2px 2px 2px rgba(0, 0, 0, 0.4)" }}
         >
-          The world where cat&#39;s live, and you can own one cat or an entire
-          cat&#39;s family.
+          The place where owner can prove their ownership of the book and become
+          the sole individual with access to specific content
         </p>
         {address && (
           <div className="flex flex-col space-y-4 items-center justify-center md:space-y-0 md:flex-row md:space-x-4">

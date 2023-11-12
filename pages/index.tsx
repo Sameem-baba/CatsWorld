@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="">
       <Head>
-        <title>The Cat's World</title>
+        <title>The Book Token</title>
         <link rel="icon" href="/icon.webp" />
       </Head>
       <Header />
